@@ -1,11 +1,10 @@
-from discord.ext import commands
 import os
 import asyncio
 from discord.webhook.async_ import interaction_message_response_params
 import dotenv
 import dns.resolver
 from Keep_alive import keep_alive
-from discord import message
+
 
 
 
