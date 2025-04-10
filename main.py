@@ -1,7 +1,3 @@
-import os
-import asyncio
-import dotenv
-import dns.resolver
 from Keep_alive import keep_alive
 
 
